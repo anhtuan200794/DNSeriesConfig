@@ -1,0 +1,10 @@
+C:\DATA\01.Diebold_Projects\99.Code_Projects\04.DNSeriesConfig\DNSeriesConfig\bin\Debug\DNSeriesConfig.exe
+C:\DATA\01.Diebold_Projects\99.Code_Projects\04.DNSeriesConfig\DNSeriesConfig\bin\Debug\DNSeriesConfig.pdb
+C:\DATA\01.Diebold_Projects\99.Code_Projects\04.DNSeriesConfig\DNSeriesConfig\obj\Debug\DNSeriesConfig.csproj.AssemblyReference.cache
+C:\DATA\01.Diebold_Projects\99.Code_Projects\04.DNSeriesConfig\DNSeriesConfig\obj\Debug\DNSeriesConfig.Form1.resources
+C:\DATA\01.Diebold_Projects\99.Code_Projects\04.DNSeriesConfig\DNSeriesConfig\obj\Debug\DNSeriesConfig.Properties.Resources.resources
+C:\DATA\01.Diebold_Projects\99.Code_Projects\04.DNSeriesConfig\DNSeriesConfig\obj\Debug\DNSeriesConfig.csproj.GenerateResource.cache
+C:\DATA\01.Diebold_Projects\99.Code_Projects\04.DNSeriesConfig\DNSeriesConfig\obj\Debug\DNSeriesConfig.csproj.CoreCompileInputs.cache
+C:\DATA\01.Diebold_Projects\99.Code_Projects\04.DNSeriesConfig\DNSeriesConfig\obj\Debug\DNSeriesConfig.exe
+C:\DATA\01.Diebold_Projects\99.Code_Projects\04.DNSeriesConfig\DNSeriesConfig\obj\Debug\DNSeriesConfig.pdb
+C:\DATA\01.Diebold_Projects\99.Code_Projects\04.DNSeriesConfig\DNSeriesConfig\bin\Debug\DNSeriesConfig.exe.config
